@@ -1,6 +1,6 @@
 [submodule "front-end"]
 	path = front-end
-	url = https://github.com/CViniciusSDias/alura-ms-front.git
+	url = https://github.com/eciosilva/alura-ms-front.git
 [submodule "mkt-node"]
 	path = mkt-node
 	url = https://github.com/CViniciusSDias/alura-ms-mkt-node.git
